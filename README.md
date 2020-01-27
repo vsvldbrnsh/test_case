@@ -1,6 +1,6 @@
 #  Exploratory Data Analysis
 ### 1 Introduction
-This is an explorator data analysis of the Iowa alcohol dataset. The dataset has over 17M  observation and divided into 10 separate files. Files were downloaded from Bigquery public data storage and placed into storage bucket (Google Cloud). According to limitations imposed by my PC performance i decided to work with a part of data, not with all of 17M records.For EDA were used only files from aoiwa/ (4836011 rows))
+This is an explorator data analysis of the Iowa alcohol dataset. The dataset has over 17M  observation and divided into 10 separate files. Files were downloaded from Bigquery public data storage and placed into storage bucket (Google Cloud). According to limitations imposed by my PC performance i decided to work with a part of data, not with all of 17M records.For EDA were used only 4836011 rows
 Files in the repository:
   - Alco.ipynb
   - README.md
